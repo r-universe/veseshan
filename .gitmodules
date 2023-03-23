@@ -8,6 +8,11 @@
 	url = https://github.com/veseshan/clinfun
 	shallow = true
 	registered = true
+[submodule "DNAcopy"]
+	path = DNAcopy
+	url = https://git.bioconductor.org/packages/DNAcopy
+	shallow = true
+	registered = true
 [submodule "genepi"]
 	path = genepi
 	url = https://github.com/cran/genepi
