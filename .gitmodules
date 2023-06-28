@@ -10,7 +10,7 @@
 	registered = true
 [submodule "DNAcopy"]
 	path = DNAcopy
-	url = https://git.bioconductor.org/packages/DNAcopy
+	url = https://github.com/veseshan/dnacopy
 	shallow = true
 	registered = true
 [submodule "genepi"]
