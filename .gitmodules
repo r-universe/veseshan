@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "clinfun"]
 	path = clinfun
 	url = https://github.com/veseshan/clinfun
-	shallow = true
-	registered = true
 [submodule "DNAcopy"]
 	path = DNAcopy
 	url = https://github.com/veseshan/dnacopy
-	shallow = true
-	registered = true
 [submodule "genepi"]
 	path = genepi
 	url = https://github.com/cran/genepi
-	shallow = true
-	registered = true
