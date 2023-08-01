@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "clinfun"]
-	path = clinfun
-	url = https://github.com/veseshan/clinfun
 [submodule "DNAcopy"]
 	path = DNAcopy
 	url = https://github.com/veseshan/dnacopy
+[submodule "clinfun"]
+	path = clinfun
+	url = https://github.com/veseshan/clinfun
 [submodule "genepi"]
 	path = genepi
 	url = https://github.com/cran/genepi
